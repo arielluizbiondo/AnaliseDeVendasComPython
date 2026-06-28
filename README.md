@@ -64,11 +64,6 @@ Durante o desenvolvimento foram utilizados alguns conceitos importantes:
 * análise de comportamento de vendas
 * interpretação de gráficos
 
----
-
-## 📊 Demonstração
-
-<img aling='center' src="https://matplotlib.org/stable/_images/sphx_glr_simple_plot_001.png" height="250"/>
 
 ---
 
